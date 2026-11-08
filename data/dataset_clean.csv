@@ -1,0 +1,721 @@
+price_pen,bedrooms,bathrooms,area_m2,age_years,maintenance_pen,has_maintenance,housing_type,district_grp
+3420.0,2.0,2.0,103.0,13.0,0.0,0,Apartamento,Miraflores
+2736.0,2.0,2.0,66.0,3.0,150.0,1,Apartamento,Barranco
+2600.0,1.0,2.0,60.0,9.0,330.0,1,Apartamento,Lince
+2300.0,2.0,2.0,50.0,1.0,250.0,1,Apartamento,Santiago de Surco
+8740.0,5.0,3.0,194.0,61.0,70.0,1,Casa,Chorrillos
+4560.0,1.0,2.0,134.0,9.0,650.0,1,Apartamento,Otro
+5510.0,4.0,2.0,185.0,23.0,225.0,1,Apartamento,Miraflores
+3000.0,3.0,3.0,70.0,9.0,280.0,1,Apartamento,San Isidro
+2600.0,2.0,2.0,70.0,1.0,280.0,1,Apartamento,Surquillo
+1600.0,3.0,2.0,76.0,9.0,0.0,0,Apartamento,Chorrillos
+2600.0,2.0,2.0,59.0,5.0,180.0,1,Apartamento,Miraflores
+1100.0,3.0,2.0,75.0,5.0,1.0,1,Apartamento,Comas
+2470.0,2.0,2.0,67.0,9.0,0.0,0,Apartamento,Otro
+2300.0,3.0,2.0,81.0,12.0,260.0,1,Apartamento,Surquillo
+2600.0,2.0,2.0,100.0,8.0,0.0,0,Apartamento,Miraflores
+1800.0,2.0,1.0,80.0,9.0,0.0,0,Apartamento,Miraflores
+2356.0,1.0,2.0,90.0,8.0,0.0,0,Apartamento,San Isidro
+6840.0,4.0,3.0,288.0,20.0,0.0,0,Casa,Chorrillos
+2500.0,3.0,2.0,75.0,2.0,300.0,1,Apartamento,Otro
+2584.0,1.0,2.0,47.0,4.0,280.0,1,Apartamento,San Isidro
+5130.0,2.0,3.0,118.0,9.0,450.0,1,Apartamento,San Isidro
+4370.0,3.0,3.0,150.0,9.0,550.0,1,Apartamento,San Isidro
+2700.0,3.0,3.0,90.0,35.0,110.0,1,Apartamento,Santiago de Surco
+3610.0,3.0,3.0,137.0,9.0,100.0,1,Apartamento,Miraflores
+2800.0,2.0,2.0,130.0,23.0,1.0,1,Apartamento,San Borja
+5130.0,3.0,3.0,202.0,14.0,490.0,1,Apartamento,Miraflores
+2660.0,2.0,2.0,70.0,7.0,0.0,0,Apartamento,Chorrillos
+5700.0,4.0,3.0,300.0,15.0,100.0,1,Casa,Chorrillos
+4560.0,3.0,2.0,160.0,18.0,0.0,0,Apartamento,Miraflores
+1600.0,1.0,1.0,42.0,9.0,120.0,1,Apartamento,Otro
+4560.0,3.0,2.0,140.0,18.0,0.0,0,Apartamento,Miraflores
+2660.0,1.0,1.0,53.0,9.0,200.0,1,Apartamento,San Isidro
+2090.0,2.0,1.0,67.0,5.0,180.0,1,Apartamento,Barranco
+5510.0,3.0,2.0,175.0,9.0,500.0,1,Apartamento,Miraflores
+4940.0,3.0,3.0,107.0,13.0,440.0,1,Apartamento,Miraflores
+3230.0,3.0,2.0,125.0,9.0,0.0,0,Apartamento,Miraflores
+2280.0,2.0,1.0,62.0,15.0,180.0,1,Apartamento,Barranco
+5700.0,4.0,4.0,220.0,10.0,550.0,1,Apartamento,Otro
+1500.0,3.0,2.0,135.0,11.0,0.0,0,Apartamento,Otro
+1406.0,3.0,2.0,85.0,12.0,0.0,0,Apartamento,Otro
+5700.0,3.0,3.0,500.0,3.0,0.0,0,Casa,Otro
+3990.0,1.0,3.0,125.0,5.0,380.0,1,Apartamento,Miraflores
+3230.0,2.0,2.0,84.0,11.0,400.0,1,Apartamento,Miraflores
+2600.0,3.0,2.0,92.0,63.0,0.0,0,Casa,San Miguel
+3000.0,2.0,3.0,124.0,0.0,0.0,0,Apartamento,Miraflores
+2300.0,1.0,1.0,43.0,10.0,230.0,1,Apartamento,Barranco
+2660.0,3.0,3.0,89.0,13.0,400.0,1,Apartamento,Miraflores
+6840.0,3.0,3.0,624.0,35.0,1.0,1,Casa,Otro
+1938.0,1.0,1.0,55.0,1.0,0.0,0,Apartamento,San Isidro
+1800.0,3.0,2.0,82.0,9.0,250.0,1,Apartamento,San Miguel
+2800.0,2.0,2.0,60.0,4.0,200.0,1,Apartamento,San Miguel
+2660.0,1.0,1.0,50.0,9.0,200.0,1,Apartamento,Lince
+16340.0,5.0,5.0,470.0,9.0,1500.0,1,Apartamento,Santiago de Surco
+3610.0,3.0,3.0,180.0,40.0,450.0,1,Apartamento,Miraflores
+1680.0,2.0,2.0,80.0,9.0,0.0,0,Apartamento,Otro
+1100.0,3.0,2.0,140.0,9.0,0.0,0,Apartamento,Otro
+1100.0,2.0,1.0,45.0,0.0,0.0,0,Apartamento,San Miguel
+5510.0,3.0,2.0,200.0,9.0,550.0,1,Apartamento,Miraflores
+3002.0,3.0,2.0,116.0,4.0,50.0,1,Apartamento,Miraflores
+800.0,3.0,1.0,54.0,9.0,100.0,1,Apartamento,Otro
+2500.0,2.0,2.0,106.0,8.0,90.0,1,Apartamento,Santiago de Surco
+7220.0,7.0,4.0,207.0,31.0,0.0,0,Casa,San Borja
+2800.0,3.0,2.0,96.0,9.0,300.0,1,Apartamento,Lince
+1700.0,2.0,1.0,68.0,8.0,100.0,1,Apartamento,La Molina
+2900.0,2.0,2.0,61.0,2.0,160.0,1,Apartamento,Barranco
+2000.0,3.0,2.0,92.0,9.0,0.0,0,Apartamento,Otro
+1000.0,2.0,1.0,35.0,9.0,0.0,0,Apartamento,La Molina
+5890.0,3.0,3.0,217.0,9.0,0.0,0,Apartamento,Santiago de Surco
+3230.0,3.0,2.0,108.0,9.0,0.0,0,Apartamento,Miraflores
+1100.0,1.0,1.0,40.0,9.0,0.0,0,Apartamento,Otro
+2400.0,1.0,1.0,46.0,1.0,170.0,1,Apartamento,Lince
+5130.0,3.0,3.0,214.0,21.0,450.0,1,Casa,San Isidro
+3230.0,2.0,3.0,84.0,8.0,317.0,1,Apartamento,Miraflores
+3724.0,3.0,2.0,96.0,3.0,360.0,1,Apartamento,Barranco
+2300.0,2.0,2.0,70.0,0.0,170.0,1,Apartamento,Surquillo
+1800.0,1.0,1.0,56.0,0.0,150.0,1,Apartamento,Surquillo
+900.0,2.0,1.0,140.0,7.0,0.0,0,Casa,Otro
+1800.0,1.0,1.0,50.0,9.0,0.0,0,Apartamento,Otro
+2200.0,1.0,1.0,43.0,5.0,150.0,1,Apartamento,Surquillo
+2350.0,2.0,2.0,50.0,9.0,230.0,1,Apartamento,Santiago de Surco
+3420.0,1.0,1.0,45.0,0.0,250.0,1,Apartamento,San Isidro
+3762.0,2.0,4.0,126.0,2.0,450.0,1,Apartamento,Miraflores
+5244.0,3.0,2.0,131.0,3.0,700.0,1,Apartamento,San Isidro
+3420.0,1.0,1.0,45.0,0.0,0.0,0,Apartamento,San Isidro
+2800.0,2.0,1.0,80.0,4.0,280.0,1,Apartamento,San Borja
+1050.0,1.0,1.0,80.0,7.0,1.0,1,Apartamento,Otro
+7600.0,4.0,4.0,300.0,23.0,0.0,0,Casa,Otro
+2888.0,3.0,2.0,104.0,6.0,270.0,1,Apartamento,Otro
+5890.0,4.0,4.0,220.0,32.0,200.0,1,Casa,Santiago de Surco
+2350.0,2.0,2.0,50.0,1.0,250.0,1,Apartamento,Santiago de Surco
+3800.0,2.0,4.0,150.0,3.0,650.0,1,Apartamento,Miraflores
+3800.0,3.0,3.0,129.0,9.0,300.0,1,Apartamento,Otro
+2300.0,3.0,2.0,70.0,1.0,220.0,1,Apartamento,Otro
+5700.0,2.0,2.0,104.0,18.0,631.0,1,Apartamento,Miraflores
+5320.0,2.0,3.0,107.0,13.0,350.0,1,Apartamento,Miraflores
+7800.0,5.0,4.0,350.0,25.0,0.0,0,Casa,Santiago de Surco
+3724.0,3.0,3.0,126.0,4.0,500.0,1,Apartamento,Santiago de Surco
+4560.0,2.0,2.0,100.0,9.0,400.0,1,Apartamento,Miraflores
+4600.0,3.0,5.0,224.0,5.0,300.0,1,Apartamento,Santiago de Surco
+2200.0,3.0,2.0,80.0,1.0,250.0,1,Apartamento,Santiago de Surco
+3420.0,2.0,3.0,110.0,11.0,330.0,1,Apartamento,Miraflores
+3040.0,2.0,2.0,72.0,0.0,0.0,0,Apartamento,Barranco
+3610.0,2.0,3.0,92.0,2.0,328.0,1,Apartamento,San Borja
+4560.0,3.0,3.0,167.0,8.0,600.0,1,Apartamento,Santiago de Surco
+2622.0,1.0,1.0,60.0,9.0,235.0,1,Apartamento,Miraflores
+3230.0,2.0,2.0,80.0,7.0,480.0,1,Apartamento,Miraflores
+800.0,2.0,2.0,58.0,9.0,25.0,1,Apartamento,Otro
+1600.0,3.0,2.0,68.0,9.0,170.0,1,Apartamento,Otro
+850.0,2.0,1.0,65.0,9.0,25.0,1,Apartamento,Otro
+1450.0,2.0,1.0,59.0,0.0,0.0,0,Apartamento,Otro
+3100.0,3.0,3.0,105.0,9.0,0.0,0,Apartamento,Santiago de Surco
+2888.0,1.0,1.0,45.0,6.0,300.0,1,Apartamento,Barranco
+6270.0,3.0,2.0,300.0,15.0,0.0,0,Casa,Chorrillos
+3496.0,2.0,2.0,55.0,4.0,300.0,1,Apartamento,Barranco
+7980.0,3.0,4.0,246.0,9.0,1550.0,1,Apartamento,Miraflores
+1400.0,1.0,1.0,60.0,23.0,50.0,1,Apartamento,Santiago de Surco
+1800.0,2.0,1.0,70.0,9.0,280.0,1,Apartamento,Surquillo
+10640.0,3.0,5.0,280.0,13.0,1300.0,1,Apartamento,San Isidro
+1600.0,1.0,1.0,65.0,9.0,280.0,1,Apartamento,Surquillo
+1800.0,3.0,2.0,105.0,5.0,0.0,0,Apartamento,Otro
+2100.0,1.0,1.0,53.0,0.0,0.0,0,Apartamento,Lince
+2200.0,2.0,2.0,75.0,6.0,250.0,1,Apartamento,San Miguel
+1300.0,1.0,1.0,35.0,20.0,1.0,1,Apartamento,Santiago de Surco
+4370.0,5.0,3.0,232.0,25.0,300.0,1,Apartamento,San Borja
+7600.0,3.0,2.0,180.0,9.0,0.0,0,Apartamento,Miraflores
+3800.0,2.0,3.0,90.0,12.0,0.0,0,Apartamento,Miraflores
+940.0,2.0,1.0,50.0,2.0,0.0,0,Apartamento,Comas
+1000.0,2.0,1.0,102.0,10.0,0.0,0,Apartamento,Otro
+1500.0,2.0,1.0,51.0,4.0,0.0,0,Apartamento,San Miguel
+2100.0,2.0,2.0,75.0,26.0,0.0,0,Apartamento,La Molina
+2100.0,4.0,3.0,260.0,5.0,0.0,0,Apartamento,Otro
+1000.0,3.0,1.0,61.0,1.0,0.0,0,Apartamento,Comas
+5700.0,3.0,2.0,300.0,15.0,0.0,0,Casa,Chorrillos
+1200.0,2.0,1.0,60.0,5.0,50.0,1,Apartamento,Otro
+550.0,1.0,1.0,40.0,4.0,0.0,0,Apartamento,Comas
+10640.0,3.0,3.0,240.0,4.0,1900.0,1,Apartamento,San Isidro
+2400.0,4.0,3.0,130.0,5.0,0.0,0,Apartamento,Otro
+5700.0,3.0,3.0,140.0,9.0,0.0,0,Apartamento,San Borja
+4000.0,7.0,2.0,212.0,24.0,0.0,0,Casa,Otro
+3000.0,3.0,2.0,78.0,1.0,250.0,1,Apartamento,Otro
+4940.0,3.0,3.0,130.0,3.0,450.0,1,Apartamento,Miraflores
+3990.0,4.0,3.0,124.0,10.0,0.0,0,Apartamento,Otro
+1000.0,3.0,2.0,60.0,4.0,0.0,0,Apartamento,Otro
+700.0,3.0,1.0,58.0,2.0,0.0,0,Apartamento,Otro
+750.0,3.0,2.0,70.0,1.0,0.0,0,Apartamento,Otro
+600.0,2.0,1.0,65.0,1.0,0.0,0,Apartamento,Otro
+13300.0,8.0,4.0,350.0,58.0,0.0,0,Casa,Lince
+800.0,3.0,1.0,60.0,15.0,0.0,0,Apartamento,Comas
+880.0,3.0,2.0,40.0,10.0,0.0,0,Apartamento,Otro
+2000.0,3.0,2.0,75.0,15.0,0.0,0,Apartamento,Santiago de Surco
+6840.0,3.0,3.0,250.0,51.0,0.0,0,Casa,San Borja
+3800.0,3.0,2.0,125.0,25.0,470.0,1,Apartamento,Miraflores
+2200.0,1.0,1.0,55.0,15.0,180.0,1,Apartamento,Miraflores
+5700.0,2.0,3.0,183.0,9.0,477.0,1,Apartamento,San Isidro
+7220.0,4.0,3.0,280.0,30.0,0.0,0,Casa,Santiago de Surco
+2622.0,2.0,2.0,60.0,13.0,250.0,1,Apartamento,Miraflores
+3800.0,3.0,4.0,120.0,6.0,600.0,1,Apartamento,Miraflores
+3800.0,3.0,4.0,120.0,6.0,600.0,1,Apartamento,Miraflores
+3800.0,3.0,4.0,120.0,6.0,0.0,0,Apartamento,Miraflores
+1450.0,2.0,2.0,46.0,0.0,260.0,1,Apartamento,Otro
+5700.0,3.0,3.0,175.0,9.0,650.0,1,Apartamento,San Isidro
+4560.0,2.0,3.0,124.0,9.0,0.0,0,Apartamento,La Molina
+1700.0,1.0,1.0,40.0,9.0,0.0,0,Apartamento,San Isidro
+1600.0,2.0,1.0,90.0,3.0,100.0,1,Apartamento,San Miguel
+1100.0,2.0,1.0,51.0,1.0,100.0,1,Apartamento,Otro
+1500.0,2.0,2.0,65.0,1.0,145.0,1,Apartamento,Otro
+2850.0,2.0,2.0,70.0,0.0,250.0,1,Apartamento,Santiago de Surco
+2850.0,2.0,2.0,70.0,0.0,250.0,1,Apartamento,Santiago de Surco
+3610.0,3.0,2.0,100.0,17.0,400.0,1,Apartamento,San Isidro
+2400.0,2.0,2.0,60.0,0.0,0.0,0,Apartamento,Otro
+1700.0,1.0,1.0,36.0,0.0,0.0,0,Apartamento,Otro
+3213.0,2.0,3.0,125.0,33.0,0.0,0,Apartamento,Miraflores
+2300.0,2.0,2.0,70.0,3.0,0.0,0,Apartamento,Otro
+3400.0,2.0,2.0,86.0,5.0,0.0,0,Apartamento,San Isidro
+2200.0,3.0,2.0,85.0,23.0,150.0,1,Apartamento,Otro
+3762.0,3.0,3.0,106.0,1.0,470.0,1,Apartamento,Otro
+1400.0,2.0,1.0,70.0,10.0,1.0,1,Apartamento,San Miguel
+4180.0,1.0,1.0,120.0,5.0,0.0,0,Apartamento,Miraflores
+5510.0,2.0,3.0,121.0,9.0,420.0,1,Apartamento,Miraflores
+2660.0,1.0,2.0,45.0,0.0,250.0,1,Apartamento,Santiago de Surco
+1800.0,2.0,1.0,65.0,3.0,1.0,1,Apartamento,Lince
+3300.0,2.0,2.0,60.0,0.0,300.0,1,Apartamento,Santiago de Surco
+1900.0,2.0,1.0,65.0,3.0,1.0,1,Apartamento,Lince
+2470.0,2.0,2.0,60.0,9.0,250.0,1,Apartamento,San Borja
+4560.0,4.0,2.0,80.0,60.0,1.0,1,Casa,Otro
+4370.0,2.0,2.0,130.0,9.0,750.0,1,Apartamento,San Isidro
+1750.0,3.0,2.0,80.0,9.0,235.0,1,Apartamento,San Miguel
+1824.0,1.0,1.0,45.0,13.0,270.0,1,Apartamento,La Molina
+3040.0,2.0,2.0,120.0,15.0,350.0,1,Apartamento,San Isidro
+6460.0,3.0,3.0,160.0,9.0,850.0,1,Apartamento,San Isidro
+2090.0,1.0,1.0,46.0,11.0,180.0,1,Apartamento,San Isidro
+3420.0,2.0,2.0,100.0,11.0,690.0,1,Apartamento,Miraflores
+3900.0,5.0,3.0,500.0,9.0,0.0,0,Casa,Miraflores
+5510.0,3.0,2.0,192.0,10.0,850.0,1,Apartamento,San Borja
+2000.0,1.0,1.0,52.0,52.0,220.0,1,Apartamento,Miraflores
+1900.0,2.0,1.0,62.0,8.0,200.0,1,Apartamento,Surquillo
+1350.0,2.0,1.0,86.0,13.0,50.0,1,Apartamento,San Miguel
+1150.0,2.0,1.0,85.0,4.0,0.0,0,Apartamento,Otro
+10528.0,8.0,4.0,369.0,26.0,0.0,0,Casa,La Molina
+2500.0,3.0,1.0,120.0,9.0,0.0,0,Apartamento,Otro
+2394.0,1.0,1.0,60.0,23.0,290.0,1,Apartamento,Miraflores
+1750.0,3.0,2.0,100.0,28.0,0.0,0,Apartamento,Chorrillos
+9462.0,3.0,3.0,240.0,0.0,0.0,0,Apartamento,Miraflores
+2700.0,2.0,2.0,68.0,2.0,280.0,1,Apartamento,San Isidro
+2458.6,1.0,1.0,40.0,9.0,0.0,0,Apartamento,Barranco
+13300.0,4.0,5.0,504.0,23.0,1900.0,1,Apartamento,San Isidro
+3610.0,3.0,3.0,126.0,4.0,300.0,1,Apartamento,Santiago de Surco
+2850.0,2.0,2.0,64.0,7.0,259.0,1,Apartamento,Miraflores
+1900.0,1.0,1.0,64.0,15.0,211.0,1,Apartamento,Lince
+2200.0,1.0,1.0,45.0,21.0,150.0,1,Apartamento,Miraflores
+1000.0,1.0,1.0,40.0,9.0,0.0,0,Apartamento,San Borja
+6840.0,3.0,2.0,255.0,34.0,1014.0,1,Apartamento,San Isidro
+1350.0,2.0,1.0,60.0,7.0,0.0,0,Apartamento,Otro
+3200.0,3.0,2.0,107.0,9.0,1.0,1,Casa,Chorrillos
+900.0,1.0,1.0,21.0,6.0,0.0,0,Apartamento,Otro
+3800.0,3.0,2.0,145.0,15.0,1.0,1,Apartamento,Santiago de Surco
+2850.0,2.0,2.0,70.0,3.0,250.0,1,Apartamento,Miraflores
+3230.0,4.0,4.0,164.0,24.0,0.0,0,Apartamento,La Molina
+2200.0,2.0,2.0,69.0,9.0,0.0,0,Apartamento,Otro
+7600.0,9.0,4.0,300.0,30.0,0.0,0,Casa,Miraflores
+1200.0,2.0,1.0,80.0,13.0,0.0,0,Apartamento,Otro
+3040.0,3.0,4.0,129.0,10.0,300.0,1,Apartamento,San Borja
+1100.0,2.0,1.0,50.0,1.0,0.0,0,Apartamento,Otro
+1580.0,2.0,1.0,70.0,3.0,0.0,0,Apartamento,Otro
+3420.0,2.0,2.0,91.0,20.0,380.0,1,Apartamento,Lince
+4180.0,3.0,2.0,120.0,9.0,650.0,1,Apartamento,Miraflores
+2736.0,1.0,2.0,58.0,8.0,0.0,0,Apartamento,Miraflores
+3500.0,5.0,3.0,122.0,23.0,0.0,0,Casa,Otro
+4712.0,2.0,3.0,151.0,1.0,0.0,0,Apartamento,San Isidro
+9880.0,3.0,2.0,250.0,17.0,915.0,1,Apartamento,Miraflores
+2300.0,2.0,1.0,65.0,9.0,200.0,1,Apartamento,Otro
+2280.0,1.0,1.0,72.0,15.0,180.0,1,Apartamento,Miraflores
+3420.0,1.0,1.0,90.0,10.0,500.0,1,Apartamento,Miraflores
+2700.0,2.0,2.0,62.0,0.0,250.0,1,Apartamento,San Isidro
+2280.0,1.0,1.0,50.0,0.0,200.0,1,Apartamento,San Isidro
+2000.0,3.0,1.0,78.0,20.0,120.0,1,Apartamento,La Molina
+1650.0,1.0,1.0,40.0,1.0,1.0,1,Apartamento,Santiago de Surco
+2900.0,2.0,3.0,93.0,9.0,550.0,1,Apartamento,Miraflores
+2660.0,2.0,2.0,82.0,13.0,400.0,1,Apartamento,Miraflores
+2500.0,3.0,2.0,76.0,1.0,250.0,1,Apartamento,San Miguel
+11400.0,3.0,3.0,330.0,25.0,1400.0,1,Apartamento,San Isidro
+9500.0,4.0,4.0,260.0,8.0,600.0,1,Apartamento,San Borja
+9880.0,3.0,3.0,202.0,5.0,650.0,1,Apartamento,San Isidro
+2700.0,2.0,2.0,170.0,15.0,0.0,0,Apartamento,San Borja
+2600.0,2.0,2.0,72.0,18.0,100.0,1,Apartamento,Surquillo
+2000.0,3.0,3.0,512.0,3.0,200.0,1,Casa,Otro
+4940.0,1.0,2.0,104.0,5.0,350.0,1,Apartamento,San Isidro
+2700.0,3.0,2.0,75.0,9.0,250.0,1,Apartamento,Surquillo
+4560.0,3.0,2.0,160.0,26.0,540.0,1,Apartamento,Miraflores
+2800.0,3.0,3.0,83.0,3.0,265.0,1,Apartamento,Otro
+2300.0,1.0,1.0,41.0,2.0,190.0,1,Apartamento,Barranco
+9120.0,4.0,3.0,301.0,35.0,0.0,0,Casa,San Borja
+4560.0,2.0,4.0,150.0,23.0,650.0,1,Apartamento,Miraflores
+2000.0,3.0,3.0,512.0,3.0,200.0,1,Casa,Otro
+3800.0,2.0,3.0,106.0,7.0,495.0,1,Apartamento,Miraflores
+5000.0,3.0,3.0,135.0,3.0,550.0,1,Apartamento,Santiago de Surco
+6080.0,3.0,2.0,144.0,41.0,0.0,0,Apartamento,Miraflores
+6460.0,9.0,9.0,200.0,11.0,0.0,0,Casa,San Borja
+3610.0,3.0,2.0,119.0,11.0,370.0,1,Apartamento,Miraflores
+1700.0,4.0,3.0,80.0,9.0,0.0,0,Apartamento,Otro
+4180.0,3.0,3.0,180.0,3.0,200.0,1,Casa,Otro
+5320.0,3.0,4.0,210.0,8.0,650.0,1,Apartamento,Miraflores
+4750.0,3.0,3.0,150.0,13.0,600.0,1,Apartamento,Otro
+2850.0,1.0,1.0,77.0,13.0,0.0,0,Apartamento,Santiago de Surco
+2470.0,3.0,3.0,165.0,13.0,800.0,1,Apartamento,Santiago de Surco
+3610.0,3.0,3.0,100.0,13.0,400.0,1,Apartamento,Miraflores
+3610.0,1.0,2.0,140.0,13.0,0.0,0,Apartamento,Miraflores
+2200.0,3.0,2.0,95.0,9.0,180.0,1,Apartamento,Otro
+3800.0,3.0,3.0,125.0,4.0,450.0,1,Apartamento,San Miguel
+1900.0,3.0,2.0,62.0,24.0,200.0,1,Apartamento,San Miguel
+3500.0,3.0,3.0,95.0,15.0,0.0,0,Apartamento,Miraflores
+2660.0,1.0,1.0,41.0,0.0,200.0,1,Apartamento,Barranco
+3534.0,2.0,3.0,130.0,5.0,530.0,1,Apartamento,Miraflores
+4940.0,2.0,2.0,154.0,8.0,680.0,1,Apartamento,San Isidro
+1406.0,3.0,2.0,85.0,9.0,0.0,0,Apartamento,Otro
+3420.0,2.0,3.0,180.0,33.0,400.0,1,Apartamento,Miraflores
+1500.0,3.0,2.0,98.0,9.0,0.0,0,Apartamento,Otro
+3002.0,2.0,3.0,63.0,13.0,210.0,1,Apartamento,San Isidro
+3040.0,2.0,2.0,72.0,10.0,260.0,1,Apartamento,Santiago de Surco
+9500.0,3.0,4.0,200.0,3.0,600.0,1,Apartamento,Miraflores
+3100.0,3.0,3.0,103.0,10.0,400.0,1,Apartamento,Miraflores
+1400.0,2.0,2.0,50.0,25.0,1.0,1,Apartamento,La Molina
+4560.0,3.0,2.0,150.0,6.0,670.0,1,Apartamento,Miraflores
+7600.0,3.0,2.0,175.0,19.0,840.0,1,Apartamento,Miraflores
+3800.0,2.0,3.0,106.0,13.0,575.0,1,Apartamento,Miraflores
+2200.0,3.0,2.0,112.0,12.0,174.0,1,Apartamento,Otro
+4750.0,3.0,2.0,150.0,33.0,650.0,1,Apartamento,San Isidro
+2800.0,2.0,2.0,78.0,4.0,0.0,0,Apartamento,Surquillo
+1400.0,2.0,2.0,75.0,6.0,50.0,1,Apartamento,Otro
+4370.0,3.0,3.0,139.0,1.0,500.0,1,Apartamento,San Borja
+1786.0,2.0,1.0,45.0,0.0,0.0,0,Apartamento,San Miguel
+2926.0,1.0,1.0,45.0,1.0,0.0,0,Apartamento,Barranco
+3230.0,2.0,1.0,73.0,0.0,0.0,0,Apartamento,Miraflores
+2400.0,3.0,2.0,88.0,9.0,250.0,1,Apartamento,San Miguel
+9500.0,3.0,2.0,158.0,9.0,1000.0,1,Apartamento,Miraflores
+2400.0,2.0,1.0,47.0,40.0,0.0,0,Apartamento,Miraflores
+4940.0,2.0,3.0,154.0,5.0,680.0,1,Apartamento,San Isidro
+4560.0,3.0,3.0,148.0,11.0,455.0,1,Apartamento,Santiago de Surco
+2660.0,1.0,1.0,54.0,4.0,370.0,1,Apartamento,Miraflores
+4560.0,3.0,2.0,150.0,13.0,450.0,1,Apartamento,Santiago de Surco
+4180.0,2.0,3.0,127.0,5.0,300.0,1,Apartamento,San Isidro
+3230.0,3.0,2.0,190.0,9.0,250.0,1,Apartamento,Miraflores
+6080.0,2.0,3.0,104.0,18.0,635.0,1,Apartamento,Miraflores
+12920.0,8.0,8.0,465.0,9.0,0.0,0,Casa,Otro
+2850.0,3.0,2.0,134.0,23.0,100.0,1,Apartamento,San Isidro
+2470.0,1.0,1.0,42.0,6.0,0.0,0,Apartamento,Barranco
+9880.0,4.0,5.0,351.0,65.0,0.0,0,Casa,San Isidro
+2356.0,1.0,1.0,49.0,25.0,350.0,1,Apartamento,San Isidro
+7220.0,3.0,3.0,311.0,9.0,0.0,0,Casa,San Isidro
+2470.0,1.0,1.0,51.0,1.0,260.0,1,Apartamento,Barranco
+3724.0,3.0,2.0,126.0,9.0,300.0,1,Apartamento,Otro
+3300.0,4.0,3.0,160.0,10.0,300.0,1,Apartamento,Surquillo
+3500.0,3.0,3.0,125.0,13.0,614.0,1,Apartamento,Miraflores
+1900.0,1.0,1.0,44.0,5.0,150.0,1,Apartamento,Surquillo
+2400.0,3.0,2.0,75.0,6.0,170.0,1,Apartamento,Surquillo
+2200.0,2.0,3.0,80.0,11.0,0.0,0,Apartamento,Otro
+3200.0,4.0,2.0,140.0,43.0,0.0,0,Casa,Comas
+1500.0,3.0,2.0,102.0,1.0,120.0,1,Apartamento,Comas
+1350.0,3.0,2.0,76.0,3.0,120.0,1,Apartamento,Comas
+2774.0,2.0,3.0,117.0,18.0,280.0,1,Apartamento,Miraflores
+3500.0,4.0,3.0,195.0,20.0,0.0,0,Casa,Comas
+2900.0,2.0,2.0,62.0,0.0,250.0,1,Apartamento,San Isidro
+3002.0,2.0,2.0,65.0,10.0,240.0,1,Apartamento,Miraflores
+9500.0,5.0,7.0,360.0,8.0,1000.0,1,Casa,Santiago de Surco
+999.0,1.0,1.0,20.0,23.0,0.0,0,Apartamento,Miraflores
+2660.0,2.0,2.0,90.0,10.0,1.0,1,Apartamento,Miraflores
+4750.0,3.0,4.0,160.0,9.0,0.0,0,Apartamento,Miraflores
+4940.0,4.0,3.0,220.0,43.0,100.0,1,Casa,Miraflores
+1000.0,3.0,2.0,67.0,6.0,110.0,1,Apartamento,Otro
+2000.0,3.0,1.0,90.0,5.0,100.0,1,Apartamento,Santiago de Surco
+2600.0,3.0,2.0,85.0,8.0,0.0,0,Apartamento,Otro
+2700.0,3.0,4.0,100.0,10.0,290.0,1,Apartamento,Miraflores
+3800.0,2.0,2.0,72.0,2.0,250.0,1,Apartamento,San Isidro
+3800.0,2.0,2.0,100.0,9.0,575.0,1,Apartamento,Miraflores
+2800.0,4.0,4.0,120.0,9.0,100.0,1,Apartamento,Santiago de Surco
+7220.0,5.0,5.0,186.0,9.0,0.0,0,Casa,San Isidro
+4750.0,4.0,3.0,200.0,20.0,600.0,1,Apartamento,Miraflores
+2300.0,3.0,3.0,118.0,31.0,120.0,1,Apartamento,Santiago de Surco
+2660.0,1.0,1.0,57.0,9.0,350.0,1,Apartamento,Barranco
+2090.0,2.0,1.0,110.0,9.0,0.0,0,Apartamento,Otro
+2400.0,3.0,2.0,75.0,9.0,180.0,1,Apartamento,Surquillo
+3230.0,3.0,3.0,135.0,23.0,430.0,1,Apartamento,Miraflores
+2584.0,3.0,2.0,100.0,9.0,236.0,1,Apartamento,Santiago de Surco
+11400.0,3.0,3.0,225.0,1.0,950.0,1,Apartamento,Miraflores
+5700.0,3.0,4.0,162.0,2.0,1.0,1,Apartamento,San Isidro
+1800.0,2.0,1.0,40.0,6.0,0.0,0,Apartamento,La Molina
+2300.0,1.0,1.0,40.0,9.0,0.0,0,Apartamento,Barranco
+3230.0,2.0,3.0,113.0,9.0,503.0,1,Apartamento,Miraflores
+1650.0,1.0,1.0,40.0,23.0,1.0,1,Apartamento,Santiago de Surco
+2200.0,2.0,2.0,150.0,30.0,0.0,0,Apartamento,Otro
+7600.0,4.0,5.0,300.0,5.0,1100.0,1,Apartamento,Santiago de Surco
+4180.0,3.0,3.0,111.0,9.0,400.0,1,Apartamento,Miraflores
+4750.0,3.0,3.0,166.0,13.0,0.0,0,Apartamento,Santiago de Surco
+3000.0,3.0,3.0,99.0,8.0,400.0,1,Apartamento,San Isidro
+9500.0,4.0,3.0,283.0,25.0,1200.0,1,Apartamento,San Isidro
+4180.0,2.0,2.0,112.0,10.0,1.0,1,Apartamento,San Isidro
+1550.0,3.0,3.0,129.0,12.0,1.0,1,Apartamento,Otro
+11400.0,4.0,2.0,486.0,23.0,1.0,1,Casa,Santiago de Surco
+3420.0,1.0,2.0,95.0,9.0,0.0,0,Apartamento,Miraflores
+2000.0,1.0,1.0,51.0,9.0,0.0,0,Apartamento,San Isidro
+3800.0,2.0,2.0,70.0,0.0,250.0,1,Apartamento,Miraflores
+3230.0,2.0,2.0,90.0,13.0,370.0,1,Apartamento,Miraflores
+1800.0,3.0,1.0,180.0,9.0,0.0,0,Apartamento,Otro
+2200.0,3.0,2.0,66.0,1.0,280.0,1,Apartamento,Surquillo
+1750.0,3.0,2.0,105.0,21.0,0.0,0,Apartamento,Santiago de Surco
+4180.0,3.0,2.0,100.0,2.0,470.0,1,Apartamento,Miraflores
+3800.0,2.0,2.0,98.0,17.0,400.0,1,Apartamento,Miraflores
+8360.0,3.0,2.0,210.0,13.0,750.0,1,Apartamento,San Isidro
+2375.0,2.0,1.0,60.0,4.0,130.0,1,Apartamento,Miraflores
+13300.0,3.0,3.0,450.0,23.0,0.0,0,Casa,Miraflores
+5320.0,3.0,3.0,154.0,9.0,0.0,0,Apartamento,Chorrillos
+1800.0,1.0,1.0,59.0,0.0,20.0,1,Apartamento,Chorrillos
+4560.0,3.0,3.0,160.0,11.0,580.0,1,Apartamento,San Isidro
+6080.0,3.0,2.0,205.0,9.0,1300.0,1,Apartamento,San Isidro
+4560.0,3.0,2.0,160.0,11.0,580.0,1,Apartamento,San Isidro
+6460.0,4.0,4.0,210.0,18.0,0.0,0,Apartamento,Miraflores
+4180.0,3.0,2.0,118.0,14.0,450.0,1,Apartamento,Santiago de Surco
+3800.0,2.0,2.0,80.0,1.0,375.0,1,Apartamento,Miraflores
+4940.0,5.0,2.0,205.0,40.0,10.0,1,Casa,San Isidro
+2800.0,3.0,2.0,144.0,34.0,250.0,1,Apartamento,La Molina
+3000.0,2.0,2.0,108.0,23.0,350.0,1,Apartamento,San Borja
+4142.0,3.0,2.0,168.0,40.0,500.0,1,Apartamento,San Isidro
+6270.0,5.0,5.0,850.0,37.0,0.0,0,Casa,La Molina
+1900.0,1.0,1.0,50.0,9.0,150.0,1,Apartamento,Miraflores
+1200.0,2.0,1.0,59.0,9.0,40.0,1,Apartamento,Otro
+2300.0,3.0,2.0,77.0,5.0,0.0,0,Apartamento,Otro
+3230.0,2.0,2.0,76.0,14.0,338.0,1,Apartamento,Miraflores
+3796.2,2.0,3.0,126.0,13.0,460.0,1,Apartamento,Miraflores
+1900.0,1.0,1.0,45.0,1.0,0.0,0,Apartamento,Lince
+8740.0,3.0,3.0,285.0,10.0,900.0,1,Apartamento,Santiago de Surco
+1500.0,2.0,1.0,60.0,17.0,0.0,0,Apartamento,Otro
+2470.0,2.0,1.0,115.0,11.0,1.0,1,Apartamento,Miraflores
+2500.0,1.0,1.0,44.0,1.0,250.0,1,Apartamento,Barranco
+2850.0,1.0,1.0,55.0,35.0,0.0,0,Apartamento,San Isidro
+2500.0,3.0,2.0,79.0,2.0,250.0,1,Apartamento,Surquillo
+7486.0,3.0,3.0,230.0,9.0,0.0,0,Casa,Miraflores
+2850.0,2.0,2.0,71.0,4.0,300.0,1,Apartamento,Lince
+11400.0,4.0,5.0,650.0,9.0,0.0,0,Casa,La Molina
+2400.0,2.0,2.0,77.0,16.0,0.0,0,Apartamento,Otro
+3000.0,3.0,2.0,110.0,12.0,0.0,0,Apartamento,San Isidro
+2000.0,1.0,1.0,75.0,8.0,0.0,0,Apartamento,San Borja
+1500.0,2.0,2.0,80.0,6.0,0.0,0,Apartamento,La Molina
+11400.0,3.0,2.0,153.0,9.0,0.0,0,Casa,Miraflores
+2660.0,3.0,2.0,110.0,43.0,180.0,1,Apartamento,San Borja
+1850.0,3.0,2.0,70.0,7.0,0.0,0,Apartamento,Otro
+2000.0,3.0,2.0,100.0,6.0,0.0,0,Apartamento,Santiago de Surco
+2660.0,1.0,1.0,45.0,3.0,280.0,1,Apartamento,San Isidro
+2300.0,2.0,2.0,85.0,8.0,250.0,1,Apartamento,Otro
+700.0,2.0,1.0,55.0,8.0,0.0,0,Apartamento,Otro
+1500.0,3.0,1.0,65.0,9.0,1500.0,1,Apartamento,Otro
+4522.0,2.0,3.0,121.0,1.0,550.0,1,Apartamento,Miraflores
+3724.0,3.0,4.0,126.0,5.0,500.0,1,Apartamento,Santiago de Surco
+10640.0,4.0,5.0,550.0,9.0,0.0,0,Casa,San Borja
+2660.0,3.0,2.0,71.0,5.0,220.0,1,Apartamento,Surquillo
+6270.0,2.0,2.0,135.0,8.0,653.0,1,Apartamento,San Isidro
+9496.2,2.0,2.0,200.0,22.0,600.0,1,Apartamento,Miraflores
+13300.0,3.0,3.0,320.0,3.0,1200.0,1,Apartamento,San Isidro
+1500.0,1.0,1.0,47.0,9.0,0.0,0,Apartamento,Otro
+6840.0,3.0,4.0,300.0,28.0,0.0,0,Casa,San Borja
+4560.0,4.0,4.0,148.0,12.0,500.0,1,Apartamento,San Isidro
+3040.0,3.0,2.0,180.0,21.0,350.0,1,Apartamento,San Isidro
+2280.0,1.0,1.0,50.0,16.0,142.0,1,Apartamento,San Isidro
+3420.0,3.0,2.0,97.0,14.0,420.0,1,Apartamento,Miraflores
+3610.0,2.0,3.0,165.0,9.0,500.0,1,Apartamento,Miraflores
+1500.0,1.0,1.0,42.0,40.0,0.0,0,Apartamento,Miraflores
+6900.0,4.0,3.0,214.0,43.0,200.0,1,Casa,Otro
+3230.0,3.0,4.0,120.0,6.0,420.0,1,Apartamento,Santiago de Surco
+1550.0,2.0,2.0,92.0,9.0,0.0,0,Apartamento,Santiago de Surco
+2300.0,2.0,3.0,70.0,9.0,0.0,0,Apartamento,San Miguel
+1900.0,2.0,1.0,65.0,9.0,0.0,0,Apartamento,Santiago de Surco
+3800.0,2.0,2.0,61.0,9.0,0.0,0,Apartamento,San Isidro
+1200.0,2.0,1.0,78.0,9.0,0.0,0,Apartamento,Otro
+2450.0,3.0,3.0,79.0,9.0,0.0,0,Apartamento,La Molina
+5700.0,3.0,2.0,155.0,10.0,730.0,1,Apartamento,San Isidro
+3610.0,3.0,2.0,95.0,14.0,0.0,0,Apartamento,Miraflores
+1400.0,3.0,2.0,81.0,0.0,0.0,0,Apartamento,Otro
+2400.0,3.0,1.0,100.0,3.0,1.0,1,Apartamento,San Borja
+3420.0,2.0,2.0,104.0,45.0,310.0,1,Apartamento,Miraflores
+7980.0,4.0,2.0,295.0,9.0,0.0,0,Apartamento,San Isidro
+6270.0,3.0,2.0,180.0,43.0,748.0,1,Apartamento,San Isidro
+8360.0,4.0,4.0,300.0,8.0,170.0,1,Apartamento,Santiago de Surco
+2000.0,2.0,2.0,76.0,9.0,300.0,1,Apartamento,Surquillo
+4522.0,3.0,3.0,160.0,30.0,689.0,1,Apartamento,Miraflores
+1550.0,3.0,2.0,93.0,3.0,0.0,0,Apartamento,Otro
+9500.0,4.0,4.0,217.0,9.0,0.0,0,Apartamento,Santiago de Surco
+1400.0,2.0,2.0,110.0,1.0,0.0,0,Apartamento,Otro
+1400.0,2.0,2.0,70.0,7.0,150.0,1,Apartamento,San Miguel
+1000.0,3.0,2.0,90.0,5.0,1.0,1,Apartamento,Otro
+8360.0,3.0,3.0,332.0,9.0,1080.0,1,Apartamento,Miraflores
+1800.0,2.0,2.0,69.0,5.0,250.0,1,Apartamento,San Miguel
+5700.0,3.0,3.0,155.0,9.0,650.0,1,Apartamento,Miraflores
+2470.0,2.0,2.0,80.0,23.0,345.0,1,Apartamento,Miraflores
+2400.0,2.0,2.0,90.0,13.0,300.0,1,Apartamento,Miraflores
+1900.0,1.0,1.0,56.0,9.0,0.0,0,Apartamento,Santiago de Surco
+3800.0,3.0,2.0,111.0,16.0,350.0,1,Apartamento,Otro
+4560.0,3.0,2.0,156.0,9.0,550.0,1,Apartamento,San Isidro
+4370.0,3.0,3.0,155.0,42.0,0.0,0,Apartamento,Miraflores
+3850.0,3.0,3.0,114.0,5.0,0.0,0,Apartamento,Otro
+4180.0,2.0,2.0,100.0,9.0,575.0,1,Apartamento,Miraflores
+1400.0,3.0,2.0,86.0,0.0,0.0,0,Apartamento,Comas
+11400.0,4.0,3.0,280.0,7.0,900.0,1,Apartamento,Barranco
+3230.0,3.0,2.0,95.0,9.0,0.0,0,Apartamento,Miraflores
+1250.0,2.0,2.0,76.0,9.0,100.0,1,Apartamento,Otro
+7980.0,3.0,4.0,267.0,9.0,500.0,1,Apartamento,Miraflores
+2500.0,1.0,1.0,44.0,2.0,170.0,1,Apartamento,Barranco
+1450.0,1.0,2.0,60.0,9.0,120.0,1,Apartamento,La Molina
+3420.0,3.0,2.0,120.0,11.0,640.0,1,Apartamento,Miraflores
+700.0,1.0,1.0,16.0,13.0,45.0,1,Apartamento,Otro
+3230.0,3.0,3.0,86.0,12.0,300.0,1,Apartamento,Miraflores
+9500.0,4.0,4.0,258.0,22.0,0.0,0,Casa,La Molina
+3800.0,3.0,2.0,72.0,1.0,50.0,1,Apartamento,Barranco
+835.0,3.0,1.0,66.0,8.0,130.0,1,Apartamento,Otro
+2660.0,2.0,2.0,80.0,19.0,0.0,0,Apartamento,Miraflores
+1797.4,1.0,1.0,48.0,9.0,0.0,0,Apartamento,Otro
+6840.0,3.0,2.0,240.0,33.0,0.0,0,Apartamento,San Isidro
+2700.0,2.0,2.0,62.0,9.0,300.0,1,Apartamento,San Isidro
+7600.0,3.0,5.0,313.0,9.0,0.0,0,Casa,San Isidro
+5130.0,3.0,3.0,214.0,3.0,450.0,1,Apartamento,San Isidro
+6840.0,4.0,3.0,260.0,33.0,700.0,1,Casa,Otro
+5320.0,3.0,4.0,190.0,9.0,600.0,1,Apartamento,Santiago de Surco
+4180.0,2.0,3.0,104.0,3.0,520.0,1,Apartamento,Miraflores
+999.0,1.0,1.0,20.0,23.0,55.0,1,Apartamento,Miraflores
+1600.0,1.0,1.0,37.0,8.0,150.0,1,Apartamento,Chorrillos
+4940.0,3.0,3.0,160.0,9.0,720.0,1,Apartamento,Miraflores
+2000.0,2.0,2.0,60.0,9.0,160.0,1,Apartamento,San Miguel
+2000.0,2.0,2.0,60.0,9.0,0.0,0,Apartamento,San Miguel
+2200.0,2.0,1.0,70.0,2.0,1.0,1,Apartamento,Otro
+8360.0,5.0,5.0,280.0,10.0,600.0,1,Casa,La Molina
+2850.0,1.0,1.0,70.0,9.0,225.0,1,Apartamento,San Isidro
+2280.0,2.0,1.0,100.0,9.0,0.0,0,Apartamento,Miraflores
+6460.0,4.0,3.0,360.0,1.0,0.0,0,Casa,Miraflores
+2500.0,3.0,2.0,125.0,41.0,200.0,1,Apartamento,Otro
+2400.0,3.0,2.0,120.0,9.0,0.0,0,Apartamento,San Miguel
+2356.0,2.0,2.0,95.0,33.0,130.0,1,Apartamento,Santiago de Surco
+7200.0,7.0,5.0,180.0,9.0,0.0,0,Casa,Surquillo
+1050.0,2.0,1.0,58.0,2.0,100.0,1,Apartamento,Otro
+3200.0,2.0,3.0,86.0,4.0,400.0,1,Apartamento,Miraflores
+1200.0,1.0,1.0,38.0,9.0,0.0,0,Apartamento,San Miguel
+650.0,1.0,1.0,45.0,2.0,0.0,0,Apartamento,Otro
+650.0,1.0,1.0,45.0,2.0,0.0,0,Apartamento,Otro
+4180.0,2.0,2.0,126.0,6.0,530.0,1,Apartamento,Miraflores
+1200.0,1.0,1.0,40.0,28.0,0.0,0,Apartamento,Chorrillos
+3040.0,1.0,2.0,83.0,4.0,400.0,1,Apartamento,Miraflores
+2850.0,3.0,2.0,115.0,9.0,500.0,1,Apartamento,Santiago de Surco
+7144.0,3.0,2.0,235.0,15.0,1300.0,1,Apartamento,Barranco
+4370.0,3.0,4.0,135.0,9.0,520.0,1,Apartamento,San Isidro
+2300.0,2.0,1.0,75.0,44.0,1.0,1,Apartamento,Surquillo
+10640.0,3.0,2.0,570.0,22.0,670.0,1,Casa,Chorrillos
+5320.0,3.0,3.0,176.0,9.0,1360.0,1,Apartamento,San Isidro
+3800.0,4.0,3.0,160.0,9.0,0.0,0,Apartamento,Otro
+2090.0,2.0,1.0,62.0,15.0,180.0,1,Apartamento,Barranco
+7600.0,3.0,2.0,200.0,5.0,603.0,1,Apartamento,Miraflores
+3800.0,3.0,3.0,120.0,4.0,450.0,1,Apartamento,Miraflores
+2900.0,3.0,3.0,120.0,33.0,140.0,1,Apartamento,San Borja
+2900.0,4.0,3.0,120.0,9.0,0.0,0,Apartamento,Miraflores
+5700.0,3.0,3.0,150.0,1.0,700.0,1,Apartamento,San Borja
+6840.0,2.0,3.0,170.0,10.0,506.0,1,Apartamento,Miraflores
+4900.0,3.0,3.0,260.0,35.0,0.0,0,Casa,Otro
+1710.0,3.0,1.0,120.0,9.0,0.0,0,Casa,Otro
+2850.0,3.0,3.0,121.0,16.0,160.0,1,Apartamento,Santiago de Surco
+800.0,3.0,1.0,49.0,7.0,100.0,1,Apartamento,Comas
+2300.0,2.0,3.0,76.0,9.0,0.0,0,Apartamento,La Molina
+3610.0,2.0,3.0,128.0,5.0,550.0,1,Apartamento,Miraflores
+2280.0,4.0,4.0,700.0,1.0,0.0,0,Casa,Otro
+3040.0,2.0,2.0,145.0,0.0,200.0,1,Apartamento,Santiago de Surco
+2000.0,2.0,2.0,120.0,25.0,170.0,1,Apartamento,Otro
+800.0,2.0,1.0,60.0,7.0,1.0,1,Apartamento,Comas
+8360.0,3.0,3.0,300.0,9.0,170.0,1,Apartamento,Santiago de Surco
+2280.0,1.0,1.0,60.0,0.0,200.0,1,Apartamento,Miraflores
+3610.0,3.0,2.0,82.0,9.0,0.0,0,Apartamento,San Borja
+3800.0,3.0,2.0,112.0,9.0,0.0,0,Apartamento,Miraflores
+1000.0,3.0,2.0,65.0,9.0,0.0,0,Apartamento,Otro
+2500.0,3.0,2.0,124.0,28.0,0.0,0,Apartamento,San Miguel
+4180.0,2.0,3.0,110.0,1.0,380.0,1,Apartamento,San Isidro
+5700.0,3.0,4.0,200.0,12.0,800.0,1,Apartamento,San Isidro
+4750.0,1.0,1.0,110.0,4.0,462.0,1,Apartamento,Miraflores
+8360.0,4.0,3.0,330.0,17.0,600.0,1,Casa,La Molina
+8740.0,4.0,3.0,330.0,17.0,600.0,1,Casa,La Molina
+7980.0,4.0,3.0,300.0,17.0,600.0,1,Casa,La Molina
+5800.0,4.0,3.0,274.0,9.0,0.0,0,Casa,Santiago de Surco
+1900.0,1.0,1.0,47.0,1.0,200.0,1,Apartamento,Lince
+5890.0,2.0,3.0,153.0,2.0,580.0,1,Apartamento,Miraflores
+1500.0,2.0,1.0,75.0,13.0,0.0,0,Apartamento,La Molina
+1100.0,2.0,1.0,60.0,9.0,0.0,0,Apartamento,Otro
+2280.0,1.0,1.0,41.0,0.0,200.0,1,Apartamento,Barranco
+1100.0,2.0,1.0,50.0,9.0,0.0,0,Apartamento,La Molina
+2242.0,1.0,1.0,45.0,0.0,240.0,1,Apartamento,Barranco
+2600.0,2.0,2.0,69.0,8.0,250.0,1,Apartamento,San Miguel
+3230.0,2.0,2.0,90.0,21.0,350.0,1,Apartamento,Miraflores
+900.0,3.0,1.0,56.0,0.0,100.0,1,Apartamento,Comas
+2964.0,3.0,2.0,105.0,9.0,0.0,0,Apartamento,San Isidro
+2800.0,3.0,3.0,108.0,9.0,100.0,1,Apartamento,San Miguel
+6840.0,2.0,2.0,165.0,13.0,0.0,0,Apartamento,Barranco
+7220.0,3.0,3.0,195.0,7.0,900.0,1,Apartamento,Miraflores
+4560.0,3.0,2.0,133.0,13.0,572.0,1,Apartamento,Santiago de Surco
+7220.0,3.0,2.0,203.0,9.0,0.0,0,Apartamento,San Isidro
+950.0,3.0,2.0,74.0,9.0,0.0,0,Apartamento,Otro
+3230.0,2.0,2.0,90.0,9.0,260.0,1,Apartamento,Miraflores
+5320.0,2.0,2.0,191.0,9.0,500.0,1,Apartamento,San Isidro
+3040.0,3.0,2.0,76.0,18.0,268.0,1,Apartamento,Otro
+1520.0,1.0,1.0,40.0,1.0,0.0,0,Apartamento,Chorrillos
+3040.0,3.0,2.0,93.0,9.0,200.0,1,Apartamento,Otro
+4180.0,3.0,3.0,165.0,11.0,520.0,1,Apartamento,Santiago de Surco
+1700.0,1.0,1.0,40.0,9.0,0.0,0,Apartamento,Barranco
+4560.0,2.0,2.0,106.0,9.0,0.0,0,Apartamento,San Isidro
+6270.0,3.0,2.0,161.0,55.0,800.0,1,Apartamento,San Isidro
+3000.0,3.0,3.0,94.0,9.0,220.0,1,Apartamento,San Borja
+2850.0,1.0,1.0,45.0,2.0,0.0,0,Apartamento,Otro
+3040.0,3.0,2.0,95.0,9.0,200.0,1,Apartamento,San Borja
+3230.0,2.0,2.0,85.0,9.0,0.0,0,Apartamento,Miraflores
+2500.0,3.0,3.0,150.0,11.0,180.0,1,Apartamento,Otro
+14440.0,5.0,5.0,540.0,21.0,0.0,0,Casa,Otro
+4100.0,3.0,3.0,92.0,0.0,280.0,1,Apartamento,Santiago de Surco
+2500.0,2.0,2.0,75.0,8.0,0.0,0,Apartamento,Lince
+5320.0,3.0,3.0,300.0,13.0,480.0,1,Apartamento,Santiago de Surco
+9880.0,3.0,3.0,330.0,23.0,1350.0,1,Apartamento,San Isidro
+3800.0,3.0,3.0,112.0,9.0,570.0,1,Apartamento,Miraflores
+3724.0,3.0,3.0,140.0,5.0,0.0,0,Apartamento,Santiago de Surco
+11590.0,3.0,3.0,173.0,9.0,1100.0,1,Apartamento,San Isidro
+9120.0,3.0,2.0,200.0,17.0,650.0,1,Apartamento,Miraflores
+2660.0,1.0,1.0,50.0,9.0,221.0,1,Apartamento,Miraflores
+3610.0,2.0,3.0,85.0,10.0,450.0,1,Apartamento,Barranco
+10070.0,3.0,3.0,450.0,28.0,1.0,1,Apartamento,San Isidro
+1600.0,2.0,1.0,53.0,33.0,0.0,0,Apartamento,San Miguel
+2800.0,2.0,3.0,115.0,13.0,1.0,1,Apartamento,Miraflores
+9500.0,5.0,5.0,300.0,6.0,0.0,0,Casa,Otro
+3040.0,3.0,3.0,170.0,9.0,280.0,1,Apartamento,Santiago de Surco
+900.0,1.0,1.0,35.0,25.0,1.0,1,Apartamento,Otro
+11362.0,3.0,4.0,355.0,5.0,1100.0,1,Apartamento,Miraflores
+1800.0,2.0,1.0,90.0,15.0,1.0,1,Apartamento,Santiago de Surco
+7980.0,3.0,3.0,190.0,21.0,580.0,1,Apartamento,Miraflores
+2470.0,3.0,2.0,170.0,33.0,200.0,1,Apartamento,Santiago de Surco
+4560.0,4.0,3.0,156.0,12.0,450.0,1,Apartamento,San Isidro
+8360.0,3.0,2.0,200.0,27.0,740.0,1,Apartamento,Miraflores
+4000.0,3.0,2.0,121.0,5.0,280.0,1,Apartamento,Miraflores
+4180.0,3.0,2.0,124.0,9.0,400.0,1,Apartamento,San Isidro
+3040.0,3.0,3.0,86.0,11.0,300.0,1,Apartamento,Miraflores
+5700.0,3.0,3.0,120.0,6.0,0.0,0,Apartamento,San Isidro
+2850.0,1.0,1.0,70.0,11.0,420.0,1,Apartamento,Miraflores
+1200.0,3.0,1.0,150.0,9.0,0.0,0,Casa,Otro
+2280.0,1.0,1.0,60.0,36.0,1.0,1,Apartamento,Barranco
+4560.0,3.0,3.0,110.0,13.0,380.0,1,Apartamento,Barranco
+4180.0,2.0,3.0,130.0,18.0,600.0,1,Apartamento,Santiago de Surco
+950.0,3.0,1.0,62.0,1.0,110.0,1,Apartamento,Comas
+11000.0,10.0,10.0,165.0,8.0,0.0,0,Casa,Otro
+11400.0,10.0,10.0,250.0,12.0,0.0,0,Casa,Miraflores
+3610.0,3.0,4.0,140.0,10.0,0.0,0,Apartamento,Santiago de Surco
+5320.0,3.0,3.0,200.0,23.0,630.0,1,Apartamento,Santiago de Surco
+1500.0,3.0,2.0,77.0,9.0,0.0,0,Apartamento,Otro
+3382.0,2.0,2.0,62.0,0.0,500.0,1,Apartamento,San Isidro
+2888.0,1.0,1.0,45.0,0.0,0.0,0,Apartamento,San Isidro
+1300.0,2.0,1.0,51.0,2.0,160.0,1,Apartamento,Otro
+6270.0,3.0,2.0,170.0,9.0,0.0,0,Apartamento,San Isidro
+3230.0,3.0,2.0,76.0,4.0,1.0,1,Apartamento,Otro
+9120.0,3.0,2.0,332.0,11.0,1200.0,1,Apartamento,Miraflores
+3800.0,6.0,4.0,90.0,9.0,0.0,0,Casa,Chorrillos
+1690.0,2.0,2.0,60.0,1.0,0.0,0,Apartamento,Otro
+3686.0,1.0,2.0,105.0,7.0,392.0,1,Apartamento,Miraflores
+3686.0,1.0,2.0,105.0,12.0,392.0,1,Apartamento,Miraflores
+3230.0,2.0,2.0,85.0,11.0,700.0,1,Apartamento,Miraflores
+6270.0,3.0,2.0,170.0,25.0,900.0,1,Apartamento,San Isidro
+3230.0,2.0,3.0,90.0,14.0,400.0,1,Apartamento,Miraflores
+2967.8,5.0,4.0,120.0,10.0,0.0,0,Casa,Otro
+1500.0,3.0,3.0,135.0,9.0,0.0,0,Casa,Otro
+3002.0,1.0,1.0,45.0,0.0,0.0,0,Apartamento,San Isidro
+4370.0,4.0,5.0,165.0,9.0,400.0,1,Apartamento,Miraflores
+19000.0,4.0,5.0,379.0,30.0,0.0,0,Casa,San Isidro
+4940.0,3.0,3.0,110.0,2.0,50.0,1,Apartamento,Santiago de Surco
+4370.0,4.0,5.0,165.0,9.0,400.0,1,Apartamento,Miraflores
+2755.0,3.0,3.0,110.0,5.0,273.0,1,Apartamento,Santiago de Surco
+2500.0,3.0,4.0,180.0,16.0,150.0,1,Apartamento,Santiago de Surco
+1100.0,3.0,1.0,65.0,1.0,100.0,1,Apartamento,Comas
+2850.0,2.0,2.0,80.0,0.0,460.0,1,Apartamento,Miraflores
+2850.0,3.0,2.0,83.0,4.0,250.0,1,Apartamento,San Miguel
+2850.0,1.0,1.0,50.0,0.0,200.0,1,Apartamento,Barranco
+1900.0,1.0,1.0,47.0,1.0,350.0,1,Apartamento,Barranco
+1200.0,2.0,1.0,55.0,2.0,150.0,1,Apartamento,Otro
+2090.0,1.0,1.0,48.0,1.0,350.0,1,Apartamento,Barranco
+5320.0,2.0,2.0,115.0,6.0,600.0,1,Apartamento,Miraflores
+3800.0,8.0,3.0,54.0,30.0,0.0,0,Casa,Comas
+1000.0,2.0,1.0,65.0,0.0,0.0,0,Apartamento,Otro
+3040.0,1.0,1.0,58.0,23.0,450.0,1,Apartamento,Miraflores
+3762.0,2.0,2.0,110.0,13.0,500.0,1,Apartamento,Miraflores
+3300.0,2.0,3.0,278.0,8.0,0.0,0,Casa,Otro
+4180.0,3.0,2.0,130.0,5.0,450.0,1,Apartamento,San Isidro
+4560.0,2.0,3.0,140.0,8.0,550.0,1,Apartamento,Miraflores
+2090.0,1.0,1.0,50.0,25.0,220.0,1,Apartamento,Miraflores
+15200.0,3.0,2.0,310.0,8.0,800.0,1,Apartamento,Miraflores
+9880.0,3.0,4.0,244.0,11.0,960.0,1,Apartamento,San Isidro
+3800.0,2.0,2.0,140.0,9.0,400.0,1,Apartamento,San Isidro
+4370.0,3.0,3.0,145.0,20.0,150.0,1,Apartamento,Santiago de Surco
+2500.0,2.0,2.0,65.0,9.0,0.0,0,Apartamento,Lince
+2500.0,2.0,2.0,65.0,1.0,390.0,1,Apartamento,Lince
+900.0,2.0,1.0,80.0,11.0,1.0,1,Apartamento,Otro
+4560.0,3.0,2.0,140.0,9.0,0.0,0,Apartamento,La Molina
+1800.0,3.0,2.0,110.0,9.0,0.0,0,Apartamento,Otro
+1800.0,2.0,1.0,90.0,11.0,1.0,1,Apartamento,San Miguel
+6840.0,3.0,2.0,230.0,22.0,0.0,0,Casa,Miraflores
+4000.0,6.0,6.0,1000.0,8.0,200.0,1,Casa,Otro
+9880.0,4.0,5.0,313.0,13.0,1460.0,1,Apartamento,Miraflores
+9500.0,9.0,7.0,416.0,9.0,0.0,0,Casa,San Borja
+1600.0,3.0,3.0,84.0,1.0,200.0,1,Apartamento,Comas
+5320.0,2.0,2.0,179.0,9.0,0.0,0,Apartamento,San Isidro
+3230.0,3.0,3.0,110.0,13.0,300.0,1,Apartamento,Miraflores
+2200.0,2.0,1.0,95.0,25.0,130.0,1,Apartamento,Santiago de Surco
+2300.0,2.0,3.0,110.0,16.0,1.0,1,Apartamento,Santiago de Surco
+3800.0,6.0,2.0,120.0,63.0,0.0,0,Apartamento,Miraflores
+3900.0,3.0,3.0,100.0,14.0,0.0,0,Apartamento,Otro
+7600.0,4.0,3.0,360.0,16.0,0.0,0,Casa,Otro
+880.0,3.0,1.0,55.0,3.0,1.0,1,Apartamento,Otro
+2700.0,3.0,2.0,140.0,18.0,220.0,1,Apartamento,San Miguel
+9500.0,3.0,3.0,100.0,5.0,1.0,1,Apartamento,Miraflores
+4400.0,4.0,3.0,160.0,16.0,10.0,1,Casa,San Miguel
+3769.0,2.0,2.0,65.0,2.0,330.0,1,Apartamento,Miraflores
+3400.0,3.0,3.0,91.0,1.0,240.0,1,Apartamento,San Borja
+7600.0,3.0,3.0,200.0,23.0,645.0,1,Apartamento,San Isidro
+3800.0,2.0,2.0,100.0,9.0,0.0,0,Apartamento,Miraflores
+4940.0,3.0,3.0,160.0,9.0,720.0,1,Apartamento,Miraflores
+850.0,2.0,1.0,55.0,2.0,0.0,0,Apartamento,Otro
+850.0,2.0,1.0,55.0,2.0,0.0,0,Apartamento,Otro
+2995.0,1.0,2.0,65.0,10.0,0.0,0,Apartamento,San Isidro
+6840.0,3.0,3.0,398.0,31.0,650.0,1,Apartamento,San Isidro
+2850.0,3.0,2.0,95.0,12.0,325.0,1,Apartamento,La Molina
+4775.0,3.0,2.0,187.0,25.0,350.0,1,Apartamento,Santiago de Surco
+2660.0,2.0,2.0,53.0,7.0,290.0,1,Apartamento,Barranco
+5700.0,4.0,4.0,310.0,9.0,0.0,0,Casa,Otro
+15200.0,5.0,7.0,659.0,9.0,0.0,0,Casa,Chorrillos
+2000.0,2.0,1.0,80.0,43.0,0.0,0,Casa,Santiago de Surco
+6080.0,3.0,2.0,150.0,11.0,650.0,1,Apartamento,Santiago de Surco
+1896.2,2.0,2.0,70.0,23.0,50.0,1,Apartamento,La Molina
+9500.0,3.0,3.0,367.0,23.0,1000.0,1,Apartamento,Santiago de Surco
+4370.0,3.0,3.0,136.0,11.0,500.0,1,Apartamento,San Isidro
+4370.0,3.0,3.0,136.0,11.0,500.0,1,Apartamento,San Isidro
+2850.0,3.0,2.0,90.0,18.0,350.0,1,Apartamento,Santiago de Surco
+3420.0,2.0,3.0,100.0,56.0,120.0,1,Apartamento,Miraflores
+13300.0,8.0,4.0,146.0,31.0,0.0,0,Apartamento,San Isidro
+1200.0,3.0,2.0,120.0,20.0,100.0,1,Apartamento,Otro
+10640.0,3.0,4.0,383.0,13.0,1200.0,1,Apartamento,San Borja
+6080.0,3.0,3.0,130.0,8.0,500.0,1,Apartamento,Miraflores
+3500.0,5.0,3.0,190.0,43.0,1.0,1,Apartamento,Otro
+3040.0,2.0,2.0,90.0,11.0,120.0,1,Apartamento,San Borja
+1600.0,2.0,1.0,54.0,1.0,100.0,1,Apartamento,Otro
+7596.2,4.0,3.0,230.0,26.0,700.0,1,Apartamento,Miraflores
+18996.2,3.0,3.0,170.0,9.0,200.0,1,Apartamento,Miraflores
+24700.0,5.0,5.0,500.0,8.0,1300.0,1,Apartamento,Miraflores
+2000.0,1.0,1.0,65.0,23.0,200.0,1,Apartamento,San Isidro
+2850.0,1.0,1.0,48.0,9.0,210.0,1,Apartamento,Miraflores
+2166.0,1.0,1.0,60.0,40.0,0.0,0,Apartamento,San Isidro
+3762.0,3.0,4.0,220.0,19.0,200.0,1,Apartamento,San Borja
+6840.0,3.0,3.0,88.0,5.0,400.0,1,Apartamento,Otro
+6460.0,2.0,2.0,172.0,4.0,0.0,0,Apartamento,Miraflores
+26600.0,4.0,4.0,263.0,9.0,0.0,0,Casa,Otro
+5130.0,2.0,2.0,105.0,2.0,200.0,1,Apartamento,Miraflores
+3610.0,2.0,3.0,100.0,9.0,300.0,1,Apartamento,Miraflores
+3610.0,1.0,1.0,67.0,1.0,0.0,0,Apartamento,Santiago de Surco
+2660.0,1.0,1.0,50.0,2.0,0.0,0,Apartamento,Barranco
+3534.0,2.0,2.0,77.0,9.0,0.0,0,Apartamento,Miraflores
+1000.0,3.0,1.0,97.0,3.0,0.0,0,Apartamento,Otro
+6080.0,2.0,2.0,211.0,3.0,0.0,0,Apartamento,Miraflores
+2280.0,1.0,2.0,64.0,27.0,0.0,0,Apartamento,Miraflores
